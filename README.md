@@ -1,4 +1,6 @@
-### Cybersecurity student / Work as a pentester
+##Welcome to my GitHub
+
+### I work as a web pentester
 
 <!--
 **WadKos/WadKos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
