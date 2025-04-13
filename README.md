@@ -1,19 +1,48 @@
-## Welcome to my GitHub
+# 🛡️ Application Security | Vulnerability Analysis | Offensive Mindset
 
-### I work as a web pentester
+---
 
-<!--
-**WadKos/WadKos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
 
-Here are some ideas to get you started:
+Security specialist focused on **web and API application security**.  
+Exploring how vulnerabilities interact, escalate, and translate into real-world risk.  
+Practical, curious, and always aiming for deeper understanding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-![pinguim-penguin](https://github.com/WadKos/WadKos/assets/39043581/d9389e4d-6ae5-4ec4-a768-0226e49b8a19)
+---
+
+## Focus Areas
+
+- Web & API security assessments  
+- Vulnerability chaining & risk escalation  
+- Manual testing, logic flaws, access control issues  
+- Gradual automation of repetitive security checks
+
+---
+
+## Projects & Research
+
+- 🧪 **Vuln-Combo-Scanner** — a research tool for detecting *combinations* of vulnerabilities in web applications (bachelor thesis)
+- 🔬 Hands-on practice through:
+  - TryHackMe
+  - PortSwigger Labs
+  - Real-world testing targets
+
+---
+
+## Tools & Stack
+
+- Burp Suite, OWASP ZAP, mitmproxy  
+- DevTools, Postman, curl  
+- Git, Linux
+- Some JavaScript knowledge for client-side logic analysis
+
+---
+
+## Current Objective
+
+Level up from AppSec junior+ to a confident mid-level engineer.  
+Build strong fundamentals, automate where it makes sense, and approach problems with an attacker’s mindset.
+
+---
+
+> _Understanding comes before automation. Depth before volume._
