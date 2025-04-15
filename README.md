@@ -23,7 +23,7 @@ Practical, curious, and always aiming for deeper understanding.
 
 - 🧪 **Vuln-Combo-Scanner** — a research tool for detecting *combinations* of vulnerabilities in web applications (bachelor thesis)
 - 🔬 Hands-on practice through:
-  - TryHackMe
+  - [TryHackMe](https://tryhackme.com/p/z5hrc)
   - PortSwigger Labs
   - Real-world testing targets
 
