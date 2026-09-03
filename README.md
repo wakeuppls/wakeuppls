@@ -1,16 +1,13 @@
-## Hi there 👋
+# wakeuppls/z5hrc
 
-<!--
-**wakeuppls/wakeuppls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Application Security Engineer / pentester.
 
-Here are some ideas to get you started:
+Mostly work with web applications and APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+
+* Web / API security
+* Authentication & authorization
+* Vulnerability research
+* Security tooling and automation
+* Linux
